@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\api"
+    }
+  ],
+  "settings": {
+    "phpcs.showSources": true
+  },
+  "phpcs.executablePath": "c:\\xampp\\php\\php.exe"
+}
